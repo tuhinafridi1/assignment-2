@@ -1,0 +1,8 @@
+<img src="https://mdbootstrap.com/img/logo/mdb-transparent-250px.png" class="animated bounce infinite" alt="Transparent MDB Logo" id="animated-img1"><img src="https://mdbootstrap.com/img/logo/mdb-transparent-250px.png" class="animated bounce infinite" alt="Transparent MDB Logo" id="animated-img1">$( document ).ready(function() {
+  new WOW().init();
+});$( document ).ready(function() {
+  new WOW().init();
+});
+$( document ).ready(function() {
+  new WOW().init();
+});
